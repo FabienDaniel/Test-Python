@@ -7,8 +7,6 @@ def factorielle(vinit) :
   while valeur >= 1 :
     fac = fac*valeur
     valeur = valeur-1
-    print("ICI : ",fac)
-
   return fac
 
 
